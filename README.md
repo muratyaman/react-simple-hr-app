@@ -1,5 +1,5 @@
 # simple-hr-app-react
-Simple HR app using React, Node, TypeScript; connected to php8-simple-hr-api
+Simple HR app using React, Node, TypeScript; connected to simple-hr-api-php8
 
 This app is created using create-react-app: see https://create-react-app.dev/docs/getting-started/
 
